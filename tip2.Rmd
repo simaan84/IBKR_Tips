@@ -1,10 +1,3 @@
----
-title: "Tip of the Month: `Reduce`"
-output: html_notebook
-author: Majeed Simaan
-date: April, 2018
-fig_width: 20
----
 Whether you are familiar with the concept of functional programming (FP) or not, you have probably came across the `Reduce` function  in R at some point. In one context, we may think about FP as a way to execute a function over a vector or list simultaneously. Of course, one would argue why should I care about it? My quick answer is merging data.
 
 Let's consider two ETFs (SPY and XLF) and one stock (TSLA). The stock prices date back to June 2010, whereas the SPY (respectively XLF) prices date back to January 1993 (December 1998). 
